@@ -1,6 +1,6 @@
 # the PO Game
 
-license <a href="https://creativecommons.org/licenses/by/4.0/legalcode"><img src="https://licensebuttons.net/l/by/3.0/88x31.png"></a>
+<p>license creative commons by <a href="https://creativecommons.org/licenses/by/4.0/legalcode"><img src="https://licensebuttons.net/l/by/3.0/88x31.png" alt="Creative Commons By"></a></p>
 
 ## Votre nouveau projet : Route’s
 Vous êtes PO et vous allez devoir piloter ce
