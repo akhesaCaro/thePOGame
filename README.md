@@ -1,5 +1,7 @@
 # the PO Game
 
+license <a href="https://creativecommons.org/licenses/by/4.0/legalcode"><img src="https://licensebuttons.net/l/by/3.0/88x31.png"></a>
+
 ## Votre nouveau projet : Route’s
 Vous êtes PO et vous allez devoir piloter ce
 projet
